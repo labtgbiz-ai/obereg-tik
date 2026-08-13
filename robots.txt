@@ -1,14 +1,4 @@
 User-agent: *
 Allow: /
 
-# Sitemap
 Sitemap: https://obereg-tik.ru/sitemap.xml
-
-# Яндекс
-User-agent: Yandex
-Allow: /
-Crawl-delay: 1
-
-# Google
-User-agent: Googlebot
-Allow: /
